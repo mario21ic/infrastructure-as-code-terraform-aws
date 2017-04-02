@@ -1,6 +1,6 @@
 # General
-region = "eu-west-1"
-name = "draft"
+region = "us-east-1"
+name = "dev"
 
 # VPC
 vpc_cidr = "10.0.0.0/16"
